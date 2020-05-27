@@ -1,31 +1,44 @@
 .header {
-    margin-top: .5rem;
-    padding-left: 10px;
-  }
-  
-  .header ul li {
-    list-style: none;
-    margin: 0;
-    padding: .5rem 1rem;
-    border-radius: 3px;
-  }
-  
-  .header ul li:hover {
-    background-color: #444;
-  }
-  
-  .header a:hover {
-    text-decoration: none;
-  }
-  
-  .header h3 a {
-    color: white;
-  }
-  
-  .header h3 a:hover {
-    color: #00bc8c;
-  }
-  
-  .toggle-planet {
-    margin-bottom: 1rem;
-  }
+  margin-top: .5rem;
+  padding-left: 10px;
+}
+
+.header ul li {
+  list-style: none;
+  margin: 0;
+  padding: .5rem 1rem;
+  border-radius: 3px;
+}
+
+.header ul li:hover {
+  background-color: #444;
+}
+
+.header a:hover {
+  text-decoration: none;
+}
+
+.header h3 a {
+  color: white;
+}
+
+.header h3 a:hover {
+  color: #00bc8c;
+}
+
+.toggle-planet {
+  margin-bottom: 1rem;
+}
+
+
+.button-row {
+  margin: 0 0 1rem 0;
+}
+
+.button-row button {
+  margin-right: 1rem;
+}
+
+.stardb-app .row {
+  margin-bottom: 1rem;
+}
