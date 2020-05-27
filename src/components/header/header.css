@@ -1,6 +1,7 @@
 .header {
     margin-top: .5rem;
     padding-left: 10px;
+    margin-bottom: 1.5rem;
   }
   
   .header ul li {
@@ -17,12 +18,18 @@
   .header a:hover {
     text-decoration: none;
   }
-  
+  .header h3{
+    margin-bottom: 0;
+  }
   .header h3 a {
     color: white;
   }
   
   .header h3 a:hover {
     color: #00bc8c;
+  }
+
+  .header button{
+    height: 2.2rem;
   }
   
